@@ -16,7 +16,7 @@ int main(){
 	{
 		printf("%d", x);
 	}else{
-		printf("%d", x-(l*count));
+		printf("%d", x-(count));
 	}
 }
 
